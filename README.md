@@ -1,6 +1,6 @@
 # Wholesale Customers Clustering
 
-[![Python](https://img.shields.io/badge/python-3.8+-blue)](https://www.python.org/)  
+[![Python](https://img.shields.io/badge/python-3.8+-blue)](https://www.python.org/)
 [![License](https://img.shields.io/badge/license-MIT-green)](LICENSE)  
 [![OpenML](https://img.shields.io/badge/OpenML-dataset-yellow)](https://www.openml.org/)  
 [![Status](https://img.shields.io/badge/status-active-brightgreen)]()
